@@ -1,1 +1,3 @@
-# .github
+# Seppiko
+
+https://seppiko.org
