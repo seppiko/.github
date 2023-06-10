@@ -1,3 +1,3 @@
 <p align="center">
-    <img src="https://seppiko.org/images/logo-with-wordmark.svg" alt="Seppiko Projects" />
+    <img src="https://seppiko.org/images/intro.svg" alt="Seppiko Projects" />
 </p>
